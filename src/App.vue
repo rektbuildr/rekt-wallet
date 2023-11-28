@@ -2,7 +2,6 @@
     <v-app>
         <v-main>
             <template>
-                <UrlBanner></UrlBanner>
                 <navbar v-show="isNavbar"></navbar>
                 <div class="main_cols" :wallet_view="!isNavbar">
                     <UpgradeToAccountModal></UpgradeToAccountModal>
