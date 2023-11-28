@@ -1,3 +1,11 @@
+# REKT's Electron Fork
+
+This is a fork of the Avalanche wallet currently at wallet.avax.network
+
+It's supposed to run as a standalone app using Electron
+
+`yarn electron:serve`
+
 # Avalanche (AVAX) Wallet
 
 This is the frontend Vue.js application for the Avalanche (AVAX) Wallet.
