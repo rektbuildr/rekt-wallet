@@ -6,6 +6,12 @@ It's supposed to run as a standalone app using Electron
 
 `yarn electron:serve`
 
+This is experimental software. It's simply the original Avalanche Wallet running inside Electron.
+
+Send me feedback! [Join the discussion here. Login using X/Twitter.](https://crypto.bi/forum/threads/electron-avalanche-wallet-electrum-for-avax.4/)
+
+Will be updating this via the above thread.
+
 # Avalanche (AVAX) Wallet
 
 This is the frontend Vue.js application for the Avalanche (AVAX) Wallet.
