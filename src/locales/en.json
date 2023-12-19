@@ -11,7 +11,7 @@
         "cookie_desc": "We use cookies to develop improvements and enhance your experience. To find out more, read our"
     },
     "home": {
-        "desc": "Avalanche Wallet is a simple, secure, non-custodial wallet for storing Avalanche assets.",
+        "desc": "Electron Avalanche Wallet is a simple, standalone, secure, non-custodial wallet for storing Avalanche assets.",
         "access": {
             "title": "Welcome Back!",
             "desc": "Access your existing Avalanche wallet here.",

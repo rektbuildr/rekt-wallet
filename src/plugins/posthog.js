@@ -7,14 +7,12 @@ export default {
     install(Vue, options) {
         Vue.prototype.$posthog = posthog.init(POSTHOG_DEV_APP_ID, {
             loaded: (ph) => {
-                if (!localStorage.getItem('consentsToAnalytics')) {
-                    // opting out if no consent
-                    ph.opt_out_capturing()
-                }
+                // No tracking
+                ph.opt_out_capturing()
             },
             api_host: POSTHOG_DEV_HOST_URL,
-            // By default users are opted in (and we show the cookie banner)
-            opt_out_capturing_by_default: false,
+            // By default users are opted OUT (and we show the cookie banner)
+            opt_out_capturing_by_default: true,
             // This disables automatic capturing of user events for pricacy concerns:
             // https://posthog.com/docs/integrate/client/js#autocapture
             autocapture: false,
