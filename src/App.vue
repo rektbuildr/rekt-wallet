@@ -78,21 +78,21 @@ export default {
                 vmid: 'description',
                 name: 'description',
                 content:
-                    'Electron Avalanche wallet is a simple, standalone, highly secure, non-custodial crypto wallet for storing AVAX.',
+                    'REKT Wallet is a simple, standalone, highly secure, non-custodial crypto wallet for storing AVAX.',
             },
             {
                 vmid: 'og:description',
                 name: 'description',
                 content:
-                    'Electron Avalanche wallet is a simple, standalone, highly secure, non-custodial crypto wallet for storing AVAX.',
+                    'REKT Wallet is a simple, standalone, highly secure, non-custodial crypto wallet for storing AVAX.',
             },
             {
                 vmid: 'og:title',
                 name: 'og:title',
-                content: 'Electron Avalanche Wallet',
+                content: 'REKT Wallet',
             },
         ],
-        title: 'Electron Avalanche Wallet',
+        title: 'REKT Wallet',
         titleTemplate: '%s',
     },
 }
@@ -155,7 +155,7 @@ p {
     text-align: left;
     color: var(--primary-color);
     background-color: var(--bg) !important;
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Verdana', sans-serif;
     transition-duration: 0.2s;
 }
 

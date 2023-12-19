@@ -64,7 +64,7 @@ import {
     faGlasses,
 } from '@fortawesome/free-solid-svg-icons'
 
-import { faBtc, faGoogle } from '@fortawesome/free-brands-svg-icons'
+import { faBtc } from '@fortawesome/free-brands-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 library.add(
@@ -105,7 +105,6 @@ library.add(
     faCog,
     faSearch,
     faListOl,
-    faGoogle,
     faSpinner,
     faInfoCircle,
     faLink,

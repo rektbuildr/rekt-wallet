@@ -25,7 +25,6 @@
                                 >
                                     {{ $t('create.submit') }}
                                 </button>
-                                <!--                                <TorusGoogle class="torus_but"></TorusGoogle>-->
                             </div>
                             <ToS></ToS>
 
@@ -128,7 +127,6 @@ import 'reflect-metadata'
 import { Vue, Component, Prop } from 'vue-property-decorator'
 import TextDisplayCopy from '@/components/misc/TextDisplayCopy.vue'
 import Spinner from '@/components/misc/Spinner.vue'
-// import TorusGoogle from "@/components/Torus/TorusGoogle.vue";
 import MnemonicDisplay from '@/components/misc/MnemonicDisplay.vue'
 import CopyText from '@/components/misc/CopyText.vue'
 import * as bip39 from 'bip39'
@@ -142,11 +140,9 @@ import MnemonicPhrase from '@/js/wallets/MnemonicPhrase'
     components: {
         ToS,
         CopyText,
-        // RememberKey,
         TextDisplayCopy,
         MnemonicDisplay,
         Spinner,
-        // TorusGoogle,
         VerifyMnemonic2,
         MnemonicCopied,
     },

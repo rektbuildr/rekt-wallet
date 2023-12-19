@@ -31,7 +31,6 @@
                     XPUB (Readonly)
                     <span><fa icon="glasses"></fa></span>
                 </router-link>
-                <!--            <TorusGoogle class="option button_primary" text="Google"></TorusGoogle>-->
             </div>
         </div>
 

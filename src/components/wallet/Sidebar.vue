@@ -1,7 +1,7 @@
 <template>
     <div class="wallet_sidebar">
         <div class="stick">
-            <div class="brand-text">AVAX Wallet</div>
+            <div class="brand-text">REKT Wallet</div>
             <div class="links">
                 <router-link to="/wallet" class="wallet_link">
                     <img v-if="$root.theme === 'day'" src="@/assets/sidebar/portfolio_nav.png" />

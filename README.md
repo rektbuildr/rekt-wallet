@@ -55,10 +55,6 @@ The wallet uses the Avalanche Explorer API to display wallet transaction history
 
 WARNING: This history might be out of order and incomplete.
 
-## Browser Support
-
-We suggest using Google Chrome to view the Avalanche Wallet website.
-
 ### Firefox and https
 
 Firefox does not allow https requests to localhost. But the Avalanche Wallet uses https by default, so we will need to change this to http. Make this switch by editing the `vue.config.js` file in the root directory and change

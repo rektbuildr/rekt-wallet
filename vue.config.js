@@ -24,7 +24,7 @@ module.exports = {
         },
     },
     pwa: {
-        name: 'AVAX Wallet',
+        name: 'REKT Wallet',
         manifestOptions: {
             start_url: '/',
         },

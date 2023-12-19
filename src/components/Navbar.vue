@@ -1,7 +1,7 @@
 <template>
     <div id="nav">
         <ConfirmLogout ref="logout"></ConfirmLogout>
-        <router-link to="/" class="text-logo">AVAX Wallet</router-link>
+        <router-link to="/" class="text-logo">REKT Wallet</router-link>
         <v-spacer></v-spacer>
 
         <div class="buts_right">

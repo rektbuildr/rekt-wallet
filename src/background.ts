@@ -1,6 +1,6 @@
 /*
 
-Electron Avalanche Wallet
+REKT Wallet
 @REKTBuildr
 
 */

@@ -78,7 +78,7 @@
         "error_word": "Deine eingegebene Mnemonic Phrase, stimmt mit der aktuellen Phrase nicht überein."
     },
     "top": {
-        "title1": "Hergeleitete AVAX Wallet Adresse",
+        "title1": "Hergeleitete REKT Wallet Adresse",
         "title2": "Guthaben",
         "title3": "Subnetz",
         "title4": "Netzwerk",
@@ -101,7 +101,7 @@
             "collectibles": "Kollektion"
         },
         "address": {
-            "derived": "Abgeleitete AVAX Wallet-Adresse",
+            "derived": "Abgeleitete REKT Wallet-Adresse",
             "desc": "Dies ist Ihre Adresse, um Gelder zu erhalten. Ihre Adresse wird sich nach jeder Einzahlung ändern."
         }
     },
