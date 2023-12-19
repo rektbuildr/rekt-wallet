@@ -19,6 +19,14 @@
             </template>
             <network-menu></network-menu>
             <LanguageSelect class="lang_web"></LanguageSelect>
+            <a
+                href="https://crypto.bi/forum/forums/support/"
+                target="_blank"
+                class="action_but"
+                data-cy="access"
+            >
+                {{ $t('nav.support') }}
+            </a>
         </div>
 
         <div class="mobile_right">

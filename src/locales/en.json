@@ -732,7 +732,8 @@
     },
     "nav": {
         "access": "Access Wallet",
-        "create": "Create New Wallet"
+        "create": "Create New Wallet",
+        "support": "Support Forum"
     },
     "misc": {
         "balance": "Balance"

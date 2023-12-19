@@ -1,10 +1,7 @@
 <template>
     <div class="wallet_sidebar">
         <div class="stick">
-            <div class="brand">
-                <img v-if="$root.theme === 'day'" src="@/assets/wallet_logo.png" />
-                <img v-else src="@/assets/wallet_logo_dark.png" />
-            </div>
+            <div class="brand-text">AVAX Wallet</div>
             <div class="links">
                 <router-link to="/wallet" class="wallet_link">
                     <img v-if="$root.theme === 'day'" src="@/assets/sidebar/portfolio_nav.png" />
@@ -49,6 +46,14 @@
                     <img v-else src="@/assets/sidebar/advanced_nav_night.png" />
                     {{ $t('wallet.sidebar.advanced') }}
                 </router-link>
+                <a
+                    href="https://crypto.bi/forum/forums/support/"
+                    target="_blank"
+                    class="wallet_link"
+                    data-cy="access"
+                >
+                    {{ $t('nav.support') }}
+                </a>
             </div>
             <div class="bottom">
                 <AccountMenu class="wallet_link"></AccountMenu>
@@ -82,16 +87,13 @@ export default {
         justify-content: flex-end;
     }
 
-    .brand {
+    .brand-text {
         height: 150px;
         display: flex;
         justify-content: center;
         align-items: center;
-
-        img {
-            width: 80%;
-            object-fit: contain;
-        }
+        font-size: 22px;
+        font-weight: bold;
     }
 
     .links {
