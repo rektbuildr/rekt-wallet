@@ -1,11 +1,7 @@
 <template>
     <div id="nav">
         <ConfirmLogout ref="logout"></ConfirmLogout>
-        <router-link to="/" class="logo">
-            <img v-if="$root.theme === 'day'" src="@/assets/wallet_logo.png" />
-            <img v-else src="@/assets/wallet_logo_dark.png" />
-            <!--            <span class="slogan">by Avalanche</span>-->
-        </router-link>
+        <router-link to="/" class="text-logo">AVAX Wallet</router-link>
         <v-spacer></v-spacer>
 
         <div class="buts_right">
@@ -166,11 +162,11 @@ button {
 }
 
 #nav {
-    .logo {
+    .text-logo {
         display: flex;
         align-items: center;
         color: var(--primary-color-light) !important;
-        font-size: 11px;
+        font-size: 26px;
         font-weight: 700;
 
         &:hover {

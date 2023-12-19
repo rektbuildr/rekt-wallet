@@ -7,16 +7,43 @@
         <h4 class="c28 c38" id="h.rzukxuno5xic">
             <span class="c17 c39">Effective August 25, 2022</span>
         </h4>
+        <pre>
+            BSD 3-Clause License
+
+            Original Copyright (c) 2020, Ava Labs, Inc.
+            All rights reserved.
+
+            Derived Work Since 2023
+            Copyright (c) 2023, @REKTBuildr
+            All rights reserved.
+
+            Redistribution and use in source and binary forms, with or without
+            modification, are permitted provided that the following conditions are met:
+
+            1. Redistributions of source code must retain the above copyright notice, this
+            list of conditions and the following disclaimer.
+
+            2. Redistributions in binary form must reproduce the above copyright notice,
+            this list of conditions and the following disclaimer in the documentation
+            and/or other materials provided with the distribution.
+
+            3. Neither the name of the copyright holder nor the names of its
+            contributors may be used to endorse or promote products derived from
+            this software without specific prior written permission.
+
+            THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+            AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+            IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+            DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+            FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+            DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+            SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+            CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+            OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+            OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+        </pre>
         <p class="c18">
-            <span>
-                These Terms of Use (these &ldquo;Terms&rdquo;) constitute a legally binding
-                agreement made between you, whether personally or on behalf of an entity
-                (&ldquo;you&rdquo;) and Ava Labs, Inc. (together with its subsidiaries and
-                affiliates, &ldquo;Company&rdquo;, &ldquo;we&rdquo;, &ldquo;us&rdquo;, or
-                &ldquo;our&rdquo;) governing your download, access to and/or use of the Core Browser
-                Extension, the Core Mobile Application, the CoreWeb website, the core.app website
-                and any related websites, applications or API (collectively, the &ldquo;App&rdquo;).
-            </span>
             <span>
                 The App enables users to self-custody digital assets, directly access and interact
                 with blockchains, decentralized applications (&ldquo;dapps&rdquo;) and the Avalanche
@@ -1217,23 +1244,6 @@
                 by virtue of having drafted them. You hereby waive any and all defenses you may have
                 based on the electronic form of these Terms and the lack of signing by the parties
                 hereto to execute these Terms.
-            </span>
-        </p>
-        <p class="c10"><span class="c0"></span></p>
-        <h2 class="c2" id="h.fi38w9660hix"><span class="c9 c7">19. CONTACT US</span></h2>
-        <p class="c18">
-            <span class="c0">
-                In order to resolve a complaint regarding the App or to receive further information
-                regarding use of the App, please contact us at:
-            </span>
-        </p>
-        <p class="c3"><span class="c0">Ava Labs, Inc.</span></p>
-        <p class="c3"><span class="c0">1177 Avenue of the Americas</span></p>
-        <p class="c3"><span class="c0">5th Floor, Suite 50922</span></p>
-        <p class="c3"><span class="c0">New York, NY 10036</span></p>
-        <p class="c3">
-            <span class="c13">
-                <a class="c16" href="mailto:support@avalabs.org">support@avalabs.org</a>
             </span>
         </p>
     </div>

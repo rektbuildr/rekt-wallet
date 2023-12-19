@@ -1,6 +1,10 @@
 BSD 3-Clause License
 
-Copyright (c) 2020, Ava Labs, Inc.
+Derived Work Since 2023
+Copyright (c) 2023, @REKTBuildr
+All rights reserved.
+
+Original Copyright (c) 2020, Ava Labs, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

@@ -1,7 +1,7 @@
 <template>
     <p>
-        By using this application you agree to the
-        <router-link to="/legal">Terms of Use</router-link>
+        By using this application you agree with the
+        <router-link to="/legal">BSD License</router-link>
         .
     </p>
 </template>
